@@ -1,5 +1,6 @@
 import "./App.scss";
 import About from "./components/About";
+import Contact from "./components/Contact";
 import Header from "./components/Header";
 import Home from "./components/Home";
 import Qualification from "./components/Qualification";
@@ -14,6 +15,7 @@ function App() {
         <About />
         <Skills />
         <Qualification />
+        <Contact />
       </main>
     </>
   );
