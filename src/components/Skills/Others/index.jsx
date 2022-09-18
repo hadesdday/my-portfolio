@@ -4,7 +4,7 @@ import "./styles.scss";
 function Others(props) {
     return (
         <div className="skills__content">
-            <h3 className="skills__title">Others</h3>
+            <h3 className="skills__title">Tools</h3>
             <div className="skills__box">
                 <div className="skills__group">
                     <div className="skills__data">
@@ -21,6 +21,8 @@ function Others(props) {
                             <span className="skills__level"><i className='bx bx-package' style={{ color: '#CC3534' }}></i></span>
                         </div>
                     </div>
+                </div>
+                <div className="skills__group">
                     <div className="skills__data">
                         <i className="bx bx-badge-check"></i>
                         <div>
@@ -36,13 +38,15 @@ function Others(props) {
                         </div>
                     </div>
                 </div>
+            </div>
+            <h3 className="skills__title">Others</h3>
+            <div className="skills__box">
                 <div className="skills__group">
-
                     <div className="skills__data">
                         <i className="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills__name">Problem solving</h3>
-                            <span className="skills__level"><i className='bx bx-bulb' style={{ color: '#FFD411' }}></i></span>
+                            <span className="skills__level"><i className='bx bx-bulb' style={{ color: '#24292F' }}></i></span>
                         </div>
                     </div>
                     <div className="skills__data">
@@ -52,6 +56,8 @@ function Others(props) {
                             <span className="skills__level"><i className='bx bx-group' style={{ color: '#24292F' }}></i></span>
                         </div>
                     </div>
+                </div>
+                <div className="skills__group">
                     <div className="skills__data">
                         <i className="bx bx-badge-check"></i>
                         <div>
