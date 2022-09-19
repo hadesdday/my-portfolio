@@ -34,7 +34,7 @@ function Footer(props) {
                         <i className="bx bx-envelope"></i>
                     </a>
                 </div>
-                <span className="footer__cpoy">&169; Nguyen Van Hieu. All rights reserved</span>
+                <span className="footer__cpoy">© Nguyen Van Hieu. All rights reserved</span>
             </div>
         </footer>
     );
