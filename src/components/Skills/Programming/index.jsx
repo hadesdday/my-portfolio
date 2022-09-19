@@ -29,12 +29,12 @@ function Programming(props) {
             <div className="skills__box">
                 <div className="skills__group">
                     <div className="skills__data">
-                    <i className="bx bx-badge-check"></i>
-                    <div>
-                        <h3 className="skills__name">React</h3>
-                        <span className="skills__level"><i className='bx bxl-react' style={{ color: '#4AD5FF' }}></i></span>
+                        <i className="bx bx-badge-check"></i>
+                        <div>
+                            <h3 className="skills__name">React</h3>
+                            <span className="skills__level"><i className='bx bxl-react' style={{ color: '#4AD5FF' }}></i></span>
+                        </div>
                     </div>
-                </div>
                     <div className="skills__data">
                         <i className="bx bx-badge-check"></i>
                         <div>
@@ -69,7 +69,7 @@ function Programming(props) {
                         <i className="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills__name">Material UI</h3>
-                            <span className="skills__level"><i class='bx bxs-package' style={{ color: '#007FFF' }}></i></span>
+                            <span className="skills__level"><i className='bx bxs-package' style={{ color: '#007FFF' }}></i></span>
                         </div>
                     </div>
                 </div>

@@ -20,9 +20,10 @@ function Qualification(props) {
                     <div className={toggleState === 1 ? "qualification__button qualification__active button--flex" : "qualification__button button--flex"} onClick={() => toggleTab(1)}>
                         <i className="uil uil-graduation-cap qualification__icon"></i> Education
                     </div>
-                    <div className={toggleState === 2 ? "qualification__button qualification__active button--flex" : "qualification__button button--flex"} onClick={() => toggleTab(2)}>
+                    {/* experience component */}
+                    {/* <div className={toggleState === 2 ? "qualification__button qualification__active button--flex" : "qualification__button button--flex"} onClick={() => toggleTab(2)}>
                         <i className="uil uil-briefcase-alt qualification__icon"></i> Experience
-                    </div>
+                    </div> */}
                 </div>
                 <div className="qualification__sections">
                     <div className={toggleState === 1 ? "qualification__content qualification__content-active" : "qualification__content"}>
@@ -42,7 +43,8 @@ function Qualification(props) {
                             </div>
                         </div>
                     </div>
-                    <div className={toggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content"}>
+                    {/* experience component */}
+                    {/* <div className={toggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content"}>
                         <div className="qualification__data">
                             <div>
                                 <a href="https://github.com/hadesdday/app-chat" target={'_blank'}>
@@ -78,7 +80,7 @@ function Qualification(props) {
                                 </a>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </section>

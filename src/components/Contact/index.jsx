@@ -28,10 +28,10 @@ function Contact(props) {
                             <a href="mailto:vanhieu270801@gmail.com" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                         </div>
                         <div className="contact__card">
-                            <i className="bx bx-phone contact__card-icon"></i>
-                            <h3 className="contact__card-title">Phone</h3>
-                            <span className="contact__card-data">0389122575</span>
-                            <a href="tel:0389122575" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+                            <i className="bx bxl-linkedin contact__card-icon"></i>
+                            <h3 className="contact__card-title">LinkedIn</h3>
+                            <span className="contact__card-data">Hieu Nguyen</span>
+                            <a href="https://www.linkedin.com/in/hieu-nguyen-aab67314b/" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                         </div>
                         <div className="contact__card">
                             <i className="bx bxl-skype contact__card-icon"></i>

@@ -3,6 +3,8 @@ import React from 'react';
 import "./styles.scss";
 
 function Footer(props) {
+    const year = new Date().getFullYear();
+
     return (
         <footer className="footer">
             <div className="footer__container container">
@@ -24,17 +26,17 @@ function Footer(props) {
                     <a href="https://www.linkedin.com/in/hieu-nguyen-aab67314b/" className="footer__social-link" target="_blank" title="LinkedIn">
                         <i className="bx bxl-linkedin"></i>
                     </a>
-                    <a href="tel:039122575" className="footer__social-link" target="_blank" title='Phone'>
+                    <a href="tel:0389122575" className="footer__social-link" target="_blank" title='Phone'>
                         <i className="bx bx-phone"></i>
                     </a>
                     <a href="skype:live:.cid.c6b96d8d881d64cb?chat" className="footer__social-link" target="_blank" title='Skype'>
                         <i className="bx bxl-skype"></i>
                     </a>
-                    <a href="mailto:ngvhieu27801.it@gmail.com" className="footer__social-link" target="_blank" title='Email'>
+                    <a href="mailto:vanhieu270801@gmail.com" className="footer__social-link" target="_blank" title='Email'>
                         <i className="bx bx-envelope"></i>
                     </a>
                 </div>
-                <span className="footer__cpoy">© Nguyen Van Hieu. All rights reserved</span>
+                <span className="footer__copy">© {year} Nguyen Van Hieu. All rights reserved</span>
             </div>
         </footer>
     );

@@ -23,7 +23,7 @@ function Info(props) {
                 </span>
             </div>
             <div className="about__box">
-                <i class='bx bx-buildings about__icon' ></i>
+                <i className='bx bx-buildings about__icon' ></i>
                 <h3 className="about__title">
                     Company
                 </h3>
