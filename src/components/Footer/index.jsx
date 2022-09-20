@@ -35,6 +35,9 @@ function Footer(props) {
                     <a href="mailto:vanhieu270801@gmail.com" className="footer__social-link" target="_blank" title='Email'>
                         <i className="bx bx-envelope"></i>
                     </a>
+                    <a href="https://github.com/hadesdday/" className="footer__social-link" target="_blank" title='Github'>
+                        <i class='bx bxl-github'></i>
+                    </a>
                 </div>
                 <span className="footer__copy">© {year} Nguyen Van Hieu. All rights reserved</span>
             </div>

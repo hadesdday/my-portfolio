@@ -26,8 +26,8 @@ function Projects(props) {
                             <i className="uil uil-times projects__modal-close" onClick={() => toggleTab(0)}></i>
                             <h3 className="projects__modal-title">Movies App</h3>
                             <p className="projects__modal-description">A movies app that i have applied ReactJS to this project</p>
-                            <p className='fw-bold'>Team Size : 1</p>
-                            <p className='fw-bold'>Responsibilities</p>
+                            <p className='project__title'>Team Size : 1</p>
+                            <p className='project__title'>Responsibilities</p>
                             <ul className="projects__modal-projects grid">
                                 <li className="projects__modal-project">
                                     <i className="uil uil-check-circle projects__modal-icon"></i>
@@ -38,7 +38,7 @@ function Projects(props) {
                                     <p className="projects__modal-info">Get and display data from api</p>
                                 </li>
                             </ul>
-                            <p className='fw-bold'>Accomplishments</p>
+                            <p className='project__title'>Accomplishments</p>
                             <ul className="projects__modal-projects grid">
                                 <li className="projects__modal-project">
                                     <i className="uil uil-check-circle projects__modal-icon"></i>
@@ -49,14 +49,14 @@ function Projects(props) {
                                     <p className="projects__modal-info">Learned how to get data from api</p>
                                 </li>
                             </ul>
-                            <p className='fw-bold'>Technologies</p>
+                            <p className='project__title'>Technologies</p>
                             <ul className="projects__modal-projects grid">
                                 <li className="projects__modal-project">
                                     <i className="uil uil-check-circle projects__modal-icon"></i>
                                     <p className="projects__modal-info">ReactJS</p>
                                 </li>
                             </ul>
-                            <p className="fw-bold">Github : <a href='https://github.com/hadesdday/movies-app' target={'_blank'}>Go to repository <i className="uil uil-arrow-right projects__button-icon"></i></a></p>
+                            <p className="project__title">Github : <a href='https://github.com/hadesdday/movies-app' target={'_blank'}>Go to repository <i className="uil uil-arrow-right projects__button-icon"></i></a></p>
                         </div>
                     </div>
                 </div>
@@ -71,8 +71,8 @@ function Projects(props) {
                             <i className="uil uil-times projects__modal-close" onClick={() => toggleTab(0)}></i>
                             <h3 className="projects__modal-title">App Chat</h3>
                             <p className="projects__modal-description">This is my personal project that i have applied ReactJS and Firebase to this project</p>
-                            <p className='fw-bold'>Team Size : 1</p>
-                            <p className='fw-bold'>Responsibilities</p>
+                            <p className='project__title'>Team Size : 1</p>
+                            <p className='project__title'>Responsibilities</p>
                             <ul className="projects__modal-projects grid">
                                 <li className="projects__modal-project">
                                     <i className="uil uil-check-circle projects__modal-icon"></i>
@@ -83,7 +83,7 @@ function Projects(props) {
                                     <p className="projects__modal-info">Handle data from Firebase</p>
                                 </li>
                             </ul>
-                            <p className='fw-bold'>Accomplishments</p>
+                            <p className='project__title'>Accomplishments</p>
                             <ul className="projects__modal-projects grid">
                                 <li className="projects__modal-project">
                                     <i className="uil uil-check-circle projects__modal-icon"></i>
@@ -94,7 +94,7 @@ function Projects(props) {
                                     <p className="projects__modal-info">Learned queries to handle data with firestore</p>
                                 </li>
                             </ul>
-                            <p className='fw-bold'>Technologies</p>
+                            <p className='project__title'>Technologies</p>
                             <ul className="projects__modal-projects grid">
                                 <li className="projects__modal-project">
                                     <i className="uil uil-check-circle projects__modal-icon"></i>
@@ -105,7 +105,7 @@ function Projects(props) {
                                     <p className="projects__modal-info">Firebase</p>
                                 </li>
                             </ul>
-                            <p className="fw-bold">Github : <a href='https://github.com/hadesdday/app-chat' target={'_blank'}>Go to repository <i className="uil uil-arrow-right projects__button-icon"></i></a></p>
+                            <p className="project__title">Github : <a href='https://github.com/hadesdday/app-chat' target={'_blank'}>Go to repository <i className="uil uil-arrow-right projects__button-icon"></i></a></p>
                         </div>
                     </div>
                 </div>

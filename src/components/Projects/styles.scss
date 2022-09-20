@@ -151,6 +151,13 @@
   }
 }
 
-.fw-bold {
+.project__title {
   font-weight: bold !important;
+  color: var(--title-color);
+  a {
+    transition: 0.2s;
+  }
+  a:hover {
+    color: var(--title-color);
+  }
 }
