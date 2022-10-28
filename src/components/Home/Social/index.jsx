@@ -5,7 +5,7 @@ import "./styles.scss";
 function Social(props) {
     return (
         <div className="home__social">
-            <a href="https://www.linkedin.com/in/hieu-nguyen-aab67314b/" className="home__social-icon" target="_blank" title="LinkedIn">
+            <a href="https://www.linkedin.com/in/hieu-nguyen-453717252/" className="home__social-icon" target="_blank" title="LinkedIn">
                 <i className="uil uil-linkedin-alt"></i>
             </a>
             <a href="tel:0389122575" className="home__social-icon" target="_blank" title='Phone'>

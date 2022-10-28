@@ -23,7 +23,7 @@ function Footer(props) {
                     </li>
                 </ul>
                 <div className="footer__social">
-                    <a href="https://www.linkedin.com/in/hieu-nguyen-aab67314b/" className="footer__social-link" target="_blank" title="LinkedIn">
+                    <a href="https://www.linkedin.com/in/hieu-nguyen-453717252/" className="footer__social-link" target="_blank" title="LinkedIn">
                         <i className="bx bxl-linkedin"></i>
                     </a>
                     <a href="tel:0389122575" className="footer__social-link" target="_blank" title='Phone'>
@@ -36,7 +36,7 @@ function Footer(props) {
                         <i className="bx bx-envelope"></i>
                     </a>
                     <a href="https://github.com/hadesdday/" className="footer__social-link" target="_blank" title='Github'>
-                        <i class='bx bxl-github'></i>
+                        <i className='bx bxl-github'></i>
                     </a>
                 </div>
                 <span className="footer__copy">© {year} Nguyen Van Hieu. All rights reserved</span>

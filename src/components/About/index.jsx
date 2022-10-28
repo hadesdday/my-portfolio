@@ -1,7 +1,7 @@
 import React from 'react';
 import "./styles.scss";
 import AboutImg from "../../assets/avatar.jpg"
-import CV from "../../assets/CV_InternFrontEnd_NguyenVanHieu.pdf";
+import CV from "../../assets/CV_SoftwareFresherProgram_NguyenVanHieu.pdf";
 import Info from "./Info";
 
 function About(props) {
