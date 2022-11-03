@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.70b94a40.css",
-    "main.js": "/my-portfolio/static/js/main.bafedd8f.js",
+    "main.js": "/my-portfolio/static/js/main.1f159f1f.js",
     "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/avatar.jpg": "/my-portfolio/static/media/avatar.e8deb818cb52c13a45fb.jpg",
-    "static/media/CV_SoftwareFresherProgram_NguyenVanHieu.pdf": "/my-portfolio/static/media/CV_SoftwareFresherProgram_NguyenVanHieu.e3f8110535d9c0362af4.pdf",
+    "static/media/CV_SoftwareFresherProgram_NguyenVanHieu.pdf": "/my-portfolio/static/media/CV_SoftwareFresherProgram_NguyenVanHieu.6b91ca2248129f99f3b7.pdf",
     "index.html": "/my-portfolio/index.html",
     "main.70b94a40.css.map": "/my-portfolio/static/css/main.70b94a40.css.map",
-    "main.bafedd8f.js.map": "/my-portfolio/static/js/main.bafedd8f.js.map",
+    "main.1f159f1f.js.map": "/my-portfolio/static/js/main.1f159f1f.js.map",
     "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70b94a40.css",
-    "static/js/main.bafedd8f.js"
+    "static/js/main.1f159f1f.js"
   ]
 }
